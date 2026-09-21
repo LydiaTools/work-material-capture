@@ -1,0 +1,5 @@
+.DS_Store
+runtime/
+bin/context-watcher
+bin/capture-segment
+config/sensitive-apps.txt

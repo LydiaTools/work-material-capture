@@ -1,0 +1,4 @@
+# 每行写一个不允许截图的应用名或 bundle ID。
+# 例如：
+# 1Password
+# com.apple.systempreferences
